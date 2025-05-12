@@ -36,9 +36,9 @@ Smart grade tracking and assignment reminders powered by Canvas | Open-source ed
     <br />
     <a href="https://github.com/eshikhap/EduPing">View Demo</a>
     &middot;
-    <a href="https://github.com/eshikhap/EduPing/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/eshikhap/EduPing/issues/new?labels=bug&template=bug-report.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/eshikhap/EduPing/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/eshikhap/EduPing/issues/new?labels=enhancement&template=feature-request.md">Request Feature</a>
   </p>
 </div>
 
