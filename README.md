@@ -30,15 +30,14 @@
   <p align="center">
     EduPing is a smart grade tracking and assignment reminders powered by Canvas API | Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
     <br />
-    <!-- <a href="https://github.com/eshikhap/EduPing"><strong>Explore the docs »</strong></a>
-<br /> -->
     <br />
     <a href="https://github.com/eshikhap/EduPing">View Demo</a>
     &middot;
-    <a href="https://github.com/eshikhap/EduPing/issues/new?labels=bug&template=bug-report.md">Report Bug</a>
+    <a href="https://github.com/eshikhap/EduPing/issues/new?template=bug_report.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/eshikhap/EduPing/issues/new?labels=enhancement&template=feature-request.md">Request Feature</a>
+    <a href="https://github.com/eshikhap/EduPing/issues/new?template=feature_request.md">Request Feature</a>
   </p>
+
 </div>
 
 
