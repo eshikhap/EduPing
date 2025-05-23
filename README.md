@@ -71,22 +71,48 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+## 🚀 Features
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- 📚 Topic-wise quizzes on DSA (Arrays, Trees, Graphs, etc.)
+- 🕒 Timed quizzes with autosubmit
+- 🧩 MCQs, output prediction, and complexity questions
+- 📈 Real-time leaderboard & user progress tracking
+- 🔔 Email alerts for weekly challenges & results
+- 📊 Analytics dashboard with per-topic breakdown
+- 🤝 GitHub Classroom & LMS (Canvas API) integration
+
+---
 
 
 
-### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+## 🛠️ Tech Stack
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔐 Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C6C99?style=for-the-badge&logo=oauth&logoColor=white)
+
+### ⚙️ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
 
 
 
