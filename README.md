@@ -172,7 +172,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email: [polimetlaeshikha@gmail.com](mailto:your.email@example.com) 
 
-Project Link: [https://github.com/eshikhap/StructIQ](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
