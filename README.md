@@ -28,7 +28,7 @@
 <h3 align="center">StructIQ</h3>
 
   <p align="center">
-    StructIQ is a smart grade tracking and assignment reminders powered by Canvas API | Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
+    StructIQ open-source educational tool designed to help learners master Data Structures and Algorithms through interactive quizzes and practice challenges. This platform aims to make DSA learning engaging, structured, and accessible for students and coding enthusiasts at all levels.| Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
     <br />
     <br />
     <a href="https://github.com/eshikhap/StructIQ">View Demo</a>
