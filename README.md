@@ -1,4 +1,4 @@
-# EduPing
+# StructIQ
 
 <a id="readme-top"></a>
 
@@ -21,21 +21,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/eshikhap/EduPing">
+  <a href="https://github.com/eshikhap/StructIQ">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">EduPing</h3>
+<h3 align="center">StructIQ</h3>
 
   <p align="center">
-    EduPing is a smart grade tracking and assignment reminders powered by Canvas API | Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
+    StructIQ is a smart grade tracking and assignment reminders powered by Canvas API | Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
     <br />
     <br />
-    <a href="https://github.com/eshikhap/EduPing">View Demo</a>
+    <a href="https://github.com/eshikhap/StructIQ">View Demo</a>
     &middot;
-    <a href="https://github.com/eshikhap/EduPing/issues/new?template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/eshikhap/StructIQ/issues/new?template=bug_report.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/eshikhap/EduPing/issues/new?template=feature_request.md">Request Feature</a>
+    <a href="https://github.com/eshikhap/StructIQ/issues/new?template=feature_request.md">Request Feature</a>
   </p>
 
 </div>
@@ -152,8 +152,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/eshikhap/EduPing/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eshikhap/EduPing" alt="contrib.rocks image" />
+<a href="https://github.com/eshikhap/StructIQ/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eshikhap/StructIQ" alt="contrib.rocks image" />
 </a>
 
 
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email: [polimetlaeshikha@gmail.com](mailto:your.email@example.com) 
 
-Project Link: [https://github.com/eshikhap/EduPing](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/eshikhap/StructIQ](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,16 +191,16 @@ Project Link: [https://github.com/eshikhap/EduPing](https://github.com/github_us
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/eshikhap/EduPing.svg?style=for-the-badge
-[contributors-url]: https://github.com/eshikhap/EduPing/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eshikhap/EduPing.svg?style=for-the-badge
-[forks-url]: https://github.com/eshikhap/EduPing/network/members
-[stars-shield]: https://img.shields.io/github/stars/eshikhap/EduPing.svg?style=for-the-badge
-[stars-url]: https://github.com/eshikhap/EduPing/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eshikhap/EduPing.svg?style=for-the-badge
-[issues-url]: https://github.com/eshikhap/EduPing/issues
-[license-shield]: https://img.shields.io/github/license/eshikhap/EduPing.svg?style=for-the-badge
-[license-url]: https://github.com/eshikhap/EduPing/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/eshikhap/StructIQ.svg?style=for-the-badge
+[contributors-url]: https://github.com/eshikhap/StructIQ/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/eshikhap/StructIQ.svg?style=for-the-badge
+[forks-url]: https://github.com/eshikhap/StructIQ/network/members
+[stars-shield]: https://img.shields.io/github/stars/eshikhap/StructIQ.svg?style=for-the-badge
+[stars-url]: https://github.com/eshikhap/StructIQ/stargazers
+[issues-shield]: https://img.shields.io/github/issues/eshikhap/StructIQ.svg?style=for-the-badge
+[issues-url]: https://github.com/eshikhap/StructIQ/issues
+[license-shield]: https://img.shields.io/github/license/eshikhap/StructIQ.svg?style=for-the-badge
+[license-url]: https://github.com/eshikhap/StructIQ/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
