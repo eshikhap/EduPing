@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/eshikhap/StructIQ">
+  <a href="https://github.com/eshikhap/GradBoard">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,11 +31,11 @@
     GradBoard is a student performance dashboard for tracking assignments, managing deadlines, and estimating GPA. Designed for both students and teachers, it's built to simplify academic organization and boost productivity.| Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
     <br />
     <br />
-    <a href="https://github.com/eshikhap/StructIQ">View Demo</a>
+    <a href="https://github.com/eshikhap/GradBoard">View Demo</a>
     &middot;
-    <a href="https://github.com/eshikhap/StructIQ/issues/new?template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/eshikhap/GradBoard/issues/new?template=bug_report.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/eshikhap/StructIQ/issues/new?template=feature_request.md">Request Feature</a>
+    <a href="https://github.com/eshikhap/GradBoard/issues/new?template=feature_request.md">Request Feature</a>
   </p>
 
 </div>
@@ -181,8 +181,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/eshikhap/StructIQ/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eshikhap/StructIQ" alt="contrib.rocks image" />
+<a href="https://github.com/eshikhap/GradBoard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eshikhap/GradBoard" alt="contrib.rocks image" />
 </a>
 
 
@@ -219,16 +219,16 @@ Email: [polimetlaeshikha@gmail.com](mailto:your.email@example.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/eshikhap/StructIQ.svg?style=for-the-badge
-[contributors-url]: https://github.com/eshikhap/StructIQ/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eshikhap/StructIQ.svg?style=for-the-badge
-[forks-url]: https://github.com/eshikhap/StructIQ/network/members
-[stars-shield]: https://img.shields.io/github/stars/eshikhap/StructIQ.svg?style=for-the-badge
-[stars-url]: https://github.com/eshikhap/StructIQ/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eshikhap/StructIQ.svg?style=for-the-badge
-[issues-url]: https://github.com/eshikhap/StructIQ/issues
-[license-shield]: https://img.shields.io/github/license/eshikhap/StructIQ.svg?style=for-the-badge
-[license-url]: https://github.com/eshikhap/StructIQ/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/eshikhap/GradBoard.svg?style=for-the-badge
+[contributors-url]: https://github.com/eshikhap/GradBoard/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/eshikhap/GradBoard.svg?style=for-the-badge
+[forks-url]: https://github.com/eshikhap/GradBoard/network/members
+[stars-shield]: https://img.shields.io/github/stars/eshikhap/GradBoard.svg?style=for-the-badge
+[stars-url]: https://github.com/eshikhap/GradBoard/stargazers
+[issues-shield]: https://img.shields.io/github/issues/eshikhap/GradBoard.svg?style=for-the-badge
+[issues-url]: https://github.com/eshikhap/GradBoard/issues
+[license-shield]: https://img.shields.io/github/license/eshikhap/GradBoard.svg?style=for-the-badge
+[license-url]: https://github.com/eshikhap/GradBoard/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
