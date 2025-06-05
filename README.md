@@ -1,4 +1,4 @@
-# StructIQ
+# GradBoard
 
 <a id="readme-top"></a>
 
@@ -25,10 +25,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">StructIQ</h3>
+<h3 align="center">GradBoard</h3>
 
   <p align="center">
-    StructIQ open-source educational tool designed to help learners master Data Structures and Algorithms through interactive quizzes and practice challenges. This platform aims to make DSA learning engaging, structured, and accessible for students and coding enthusiasts at all levels.| Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
+    GradBoard is a student performance dashboard for tracking assignments, managing deadlines, and estimating GPA. Designed for both students and teachers, it's built to simplify academic organization and boost productivity.| Open-source edtech tool built live for the MLH Global Hack Week: May 2025 - OSS!
     <br />
     <br />
     <a href="https://github.com/eshikhap/StructIQ">View Demo</a>
@@ -74,15 +74,19 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-## 🚀 Features
+## ✨ Features
 
-- 📚 Topic-wise quizzes on DSA (Arrays, Trees, Graphs, etc.)
-- 🕒 Timed quizzes with autosubmit
-- 🧩 MCQs, output prediction, and complexity questions
-- 📈 Real-time leaderboard & user progress tracking
-- 🔔 Email alerts for weekly challenges & results
-- 📊 Analytics dashboard with per-topic breakdown
-- 🤝 GitHub Classroom & LMS (Canvas API) integration
+### For Students
+- 📅 View upcoming assignments in a dashboard
+- 📝 Mark assignments as submitted
+- ⏰ Get smart deadline reminders via email/notifications
+- 📊  Visual progress charts
+- 🎓 GPA estimation by subject
+
+### For Teachers
+- 🗂️ Post assignments with deadlines
+- 📋 Track student submissions (submitted/missed)
+- 📊 View student-wise performance summaries
 
 ---
 
@@ -93,19 +97,18 @@
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 🔙 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Database
+### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔐 Authentication & Security
+### 🔐 Auth
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C6C99?style=for-the-badge&logo=oauth&logoColor=white)
 
 ### ⚙️ DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
